@@ -106,7 +106,7 @@ def start():
 
 if __name__ == '__main__':
     window = tk.Tk()
-    window.title('傻逼逼合并pdf专属软件')
+    window.title('合并pdf专属软件')
     window.resizable(width=False, height=False)
     window.geometry('400x500')
     window.update()
